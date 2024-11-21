@@ -64,7 +64,7 @@ void writeDataToFile(Vector3D origin, Vector3D direction, Vector3D rectangleCent
 }
 
 int main() {
-    double altitude = 30.0;
+    double altitude = 35.0;
     double azimuth = 45.0;
     double width = 5.0;
     double height = 3.0;
